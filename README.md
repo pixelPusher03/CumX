@@ -27,15 +27,13 @@
  $ bash cam_virus.sh 
  ```  
   
- ### Find Me on : 
- <p align="left"> 
-   <a href="https://github.com/thedeveloper03" target="_blank"><img src="https://img.shields.io/badge/Github-thedeveloper03-green?style=for-the-badge&logo=github"></a> 
-   <a href="https://www.instagram.com/the_developer.01" target="_blank"><img src="https://img.shields.io/badge/IG-%40the_developer.01-red?style=for-the-badge&logo=instagram"></a> 
-  
- </p>
- </div>
-  <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
-     </div> 
-     <br/> 
-     💖 
- </div>
+ # DISCLAIMER ⚠️
+This tool is only created for educational purposes
+
+Iam not responsible for any actions took by users
+
+Iam not responsible for any DAMAGE caused to people using this script
+
+Im not responsible for any DAMAGE that you might encounter. Use At own risk.
+
+## Cyberalytics Hacklytics labs
