@@ -16,25 +16,16 @@
  - Hack  `Mobile or Computer Camera` With a Link 
   
  ### Installation 
-  
- - Just, Clone this repository - 
+   
  ``` 
- $ git clone https://github.com/thedeveloper03/cam-virus.git 
+ $ git clone https://github.com/pixelPusher03/cumX.git 
  ``` 
-  
- - Change to cloned directory and run `cam_virus.sh` - 
  ``` 
- $ cd cam_virus
+ $ cd cumX
+```
+```
  $ bash cam_virus.sh 
- ``` 
-  
- - On first launch, It'll install the dependencies and that's it. `cam_virus.sh` is installed. 
-  
-  
-  
-  
-  
-  
+ ```  
   
  ### Find Me on : 
  <p align="left"> 
