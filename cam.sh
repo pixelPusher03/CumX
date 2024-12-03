@@ -1,7 +1,5 @@
 #!/bin/bash 
- # Basha Virus V1.0 
- # Coded by: SiddhantOffl 
- # Github: https://github.com/SiddhantOffl 
+# Modifying my script doesn't make you a programmer, bru, it just makes you a script kiddie.
   
   
  ## ANSI colors (FG & BG) 
